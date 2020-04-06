@@ -1,0 +1,35 @@
+body{
+	background:white;
+}
+table{
+	  background:azure;
+	  border-style:solid;
+	  border-color:grey;
+	  border-width:3px;
+	  text-align:left;
+	  margin: 0 auto;
+	  width: 50%;
+}
+div{
+	text-align:center;
+	background:white;
+}
+#immagine{
+	margin: 0 auto;
+	width: 200;
+	border-color:blue;
+	border-style: solid;
+	border-width: 1px;
+}
+#tabella2{
+	background:white;
+	  border-style:solid;
+	  border-color:grey;
+	  border-width:3px;
+	  text-align:left;
+	  margin: 0 auto;
+	  width: 50%;
+	
+	
+	
+}
